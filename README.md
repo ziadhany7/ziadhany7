@@ -55,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> 
 </a>
 <a href="https://www.php.net/manual/en/language.oop5.php" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/OO_Programming.svg" alt="OOP" width="40" height="40"/> 
+  <img src="https://static.vecteezy.com/system/resources/previews/026/670/103/non_2x/oop-icon-vector.jpg" alt="OOP" width="40" height="40"/> 
 </a>
 <a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2048px-ISO_C%2B%2B_Logo.svg.png" alt="SOLID" width="40" height="40"/> 
