@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔬 I’m currently working on [E-commerce Laravel 11](https://github.com/ziadhany7/Laravel-11-E-Commerce)
+- 🔬 I’m currently working on [E-commerce Laravel 11](https://github.com/ziadhany7/Laravel-11-E-Commerce) <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> </a>
 
 - 🌟 I’m currently learning **Laravel & API Development**
 
