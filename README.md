@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ziad Hany Wadea</h1>
+<h1 align="center">Hi 👋, I'm Ziad Hany Wadea</h1> <a href="https://laravel.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/> 
+</a>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadhany7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadhany7" /> </p>
