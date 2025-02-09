@@ -71,7 +71,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
 </a>
 <a href="https://restfulapi.net" target="_blank" rel="noreferrer"> 
-  <img src="https://static.vecteezy.com/system/resources/previews/002/012/097/non_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="RESTful API" width="40" height="40"/> 
+  <img src="https://w7.pngwing.com/pngs/834/715/png-transparent-computer-icons-api-text-logo-desktop-wallpaper-thumbnail.png" alt="RESTful API" width="40" height="40"/> 
 </a>
 
 ### DevOps & Tools  
