@@ -9,7 +9,7 @@
 
 - 🔬 I’m currently working on [E-commerce Laravel 11](https://github.com/ziadhany7/Laravel-11-E-Commerce)
 
-- 🌟 I’m currently learning **ASP.NET & API Development**
+- 🌟 I’m currently learning **Laravel & API Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
