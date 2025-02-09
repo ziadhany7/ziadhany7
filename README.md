@@ -5,12 +5,12 @@
 <a href="https://en.wikipedia.org/wiki/Arabic_language" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arabic-script.svg" alt="Arabic" width="40" height="40"/>
 </a> 
-<span>Native Arabic</span>
+<span> Native Arabic</span>
 
 <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdXNO1KPNmem-TwYoMOUfSKvzRHkUPZp3A9Q&s" alt="English" width="40" height="40"/>
 </a> 
-<span>Fluent English</span>
+<span> Fluent English </span>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadhany7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadhany7" /> </p>
 
