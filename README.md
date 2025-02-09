@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ziad Hany Wadea</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
+<p><strong>Languages:</strong></p>
+<a href="https://en.wikipedia.org/wiki/Arabic_language" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Arabic-script.svg" alt="Arabic" width="40" height="40"/>
+</a> 
+<span>Native Arabic</span>
+
+<a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" alt="English" width="40" height="40"/>
+</a> 
+<span>Fluent English</span>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadhany7&label=Profile%20views&color=0e75b6&style=flat" alt="ziadhany7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadhany7" alt="ziadhany7" /></a> </p>
