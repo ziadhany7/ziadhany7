@@ -58,7 +58,7 @@
 <a href="https://www.php.net/manual/en/language.oop5.php" target="_blank" rel="noreferrer"> 
   <img src="https://static.vecteezy.com/system/resources/previews/026/670/103/non_2x/oop-icon-vector.jpg" alt="OOP" width="40" height="40"/> 
 </a>
-<a href="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yQNtz6czdgE1MhUbffmqKw.png" target="_blank" rel="noreferrer"> 
+<a href="https://en.wikipedia.org/wiki/SOLID" target="_blank" rel="noreferrer"> 
   <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yQNtz6czdgE1MhUbffmqKw.png" alt="SOLID" width="40" height="40"/> 
 </a>
 
