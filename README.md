@@ -10,8 +10,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔬 I’m currently working as Laravel Developer in [Creative Minds](https://cems-it.com/) <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="20" height="20"/> </a>
-
-- 🌟 I’m currently learning **Laravel & API Development**
+#
+- 🌟 I’m currently learning **DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
