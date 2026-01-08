@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obE/giphy.gif" width="28"> Hi, I'm Ziad Hany
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad." alt="Quote" />
-</p>
+</p> -->
 
 ### 👨‍💻 About Me
 - 🔭 **Current Role:** Laravel Developer at [Creative Minds](https://cems-it.com/)
