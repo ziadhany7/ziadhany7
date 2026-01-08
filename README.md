@@ -25,13 +25,14 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziadhany7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhany7&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziadhany7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ziad's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhany7&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadhany7&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadhany7&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
