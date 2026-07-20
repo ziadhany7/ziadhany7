@@ -128,11 +128,11 @@ Engineered high-performance APIs for reliable data flow and built an end-to-end 
 
 <div align="center">
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziadhany7&show_icons=true&theme=radical&hide_border=true&count_private=true" /> -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhany7&layout=compact&theme=radical&hide_border=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhany7&layout=compact&theme=radical&hide_border=true" /> -->
 
 <br/>
 
-<!-- <img src="https://streak-stats.demolab.com/?user=ziadhany7&theme=radical&hide_border=true" width="65%" /> -->
+ <img src="https://streak-stats.demolab.com/?user=ziadhany7&theme=radical&hide_border=true" width="65%" /> 
 
 <br/><br/>
 
