@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ziad Hany
+# Ziad Hany Wadea
 
 ### Senior Backend PHP & Laravel Developer 🚀
 
