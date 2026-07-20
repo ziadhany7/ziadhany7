@@ -25,7 +25,8 @@
 - 🎟️ **[Tik Event (Saudi Arabia)](https://tikevent.com/):** Engineered scalable RESTful APIs (Laravel) and React.js dashboards for an event ticketing platform. Optimized database queries to handle high-concurrency traffic during major ticket releases.
 - 📢 **[Adari (Campaign Management)](https://adari.me/ar):** Developed main backend modules utilizing **Laravel 12**, **JWT Auth**, and **Clean Architecture**, significantly reducing system bugs and improving performance.
 - 🏛️ **[BUC University System](https://frg.goldencodee.com/):** Built a fully automated, bilingual (AR/EN) food-safety inspection platform utilizing **Laravel 11**, digitizing workflows and deploying a complete real-time notification system.
-- 🏢 **[Golden4Tic](https://golden4tic.com/) & [Golden Host](https://goldenhost.co/):** Delivered secure backend modules, full admin dashboards, and mobile APIs. Deployed systems on dedicated servers to boost uptime and stability.
+- 🏨 **[Golden Host](https://goldenhost.co/):** Developed core backend features, mobile APIs for seamless app-backend integration, and an intuitive Admin Dashboard to streamline operations.
+- 🎫 **[Golden4Tic](https://golden4tic.com/):** Engineered high-performance APIs for reliable data flow and built an end-to-end Business Dashboard to enhance analytics and decision-making.
 
 ---
 
