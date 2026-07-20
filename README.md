@@ -20,14 +20,44 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-role: Senior Backend Developer @ Creative Minds (cems-it.com) + Freelance Engineer
-education: BSc Computer Science & Artificial Intelligence, Helwan University
-focus: Scalable backend systems, high-concurrency traffic, database optimization
-philosophy: Clean Architecture · SOLID Principles · Design Patterns
-currently_learning: DevOps · Cloud Technologies · Real-Time Systems
-location: Egypt 🇪🇬
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="40" align="center">💼</td>
+<td><b>Role</b></td>
+<td>Senior Backend Developer @ <a href="https://cems-it.com/">Creative Minds</a> + Freelance Engineer</td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td><b>Education</b></td>
+<td>BSc Computer Science & Artificial Intelligence, Helwan University</td>
+</tr>
+<tr>
+<td align="center">🏗️</td>
+<td><b>Focus</b></td>
+<td>Scalable backend systems · High-concurrency traffic · Database optimization</td>
+</tr>
+<tr>
+<td align="center">🧩</td>
+<td><b>Philosophy</b></td>
+<td>Clean Architecture · SOLID Principles · Design Patterns</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><b>Currently Learning</b></td>
+<td>DevOps · Cloud Technologies · Real-Time Systems</td>
+</tr>
+<tr>
+<td align="center">🌍</td>
+<td><b>Location</b></td>
+<td>Egypt 🇪🇬</td>
+</tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=6C63FF&center=true&vCenter=true&width=550&lines=Clean+Architecture+%7C+SOLID+Principles+%7C+Design+Patterns;Scalable+APIs+%7C+High-Concurrency+Systems;Always+learning%3A+DevOps+%C2%B7+Cloud+%C2%B7+Real-Time+Systems" alt="About animation" />
+
+</div>
 
 <br/>
 
