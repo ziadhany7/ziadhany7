@@ -127,7 +127,7 @@ Engineered high-performance APIs for reliable data flow and built an end-to-end 
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziadhany7&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziadhany7&show_icons=true&theme=radical&hide_border=true&count_private=true" /> -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhany7&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
