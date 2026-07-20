@@ -22,10 +22,10 @@
 
 ### 🏆 Featured Experience & Projects
 
-- 🎟️ **Tik Event (Saudi Arabia):** Engineered scalable RESTful APIs (Laravel) and React.js dashboards for an event ticketing platform. Optimized database queries to handle high-concurrency traffic during major ticket releases.
-- 📢 **Adari (Campaign Management):** Developed main backend modules utilizing **Laravel 12**, **JWT Auth**, and **Clean Architecture**, significantly reducing system bugs and improving performance.
-- 🏛️ **BUC University System:** Built a fully automated, bilingual (AR/EN) food-safety inspection platform utilizing **Laravel 11**, digitizing workflows and deploying a complete real-time notification system.
-- 🏢 **Golden4Tic & Golden Host:** Delivered secure backend modules, full admin dashboards, and mobile APIs. Deployed systems on dedicated servers to boost uptime and stability.
+- 🎟️ **[Tik Event (Saudi Arabia)](https://tikevent.com/):** Engineered scalable RESTful APIs (Laravel) and React.js dashboards for an event ticketing platform. Optimized database queries to handle high-concurrency traffic during major ticket releases.
+- 📢 **[Adari (Campaign Management)](https://adari.me/ar):** Developed main backend modules utilizing **Laravel 12**, **JWT Auth**, and **Clean Architecture**, significantly reducing system bugs and improving performance.
+- 🏛️ **[BUC University System](https://frg.goldencodee.com/):** Built a fully automated, bilingual (AR/EN) food-safety inspection platform utilizing **Laravel 11**, digitizing workflows and deploying a complete real-time notification system.
+- 🏢 **[Golden4Tic](https://golden4tic.com/) & [Golden Host](https://goldenhost.co/):** Delivered secure backend modules, full admin dashboards, and mobile APIs. Deployed systems on dedicated servers to boost uptime and stability.
 
 ---
 
@@ -39,6 +39,15 @@
 | **Architecture & SE** | ![SOLID](https://img.shields.io/badge/SOLID%20Principles-4B32C3?style=for-the-badge) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-%23E34F26?style=for-the-badge) |
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziadhany7&show_icons=true&theme=radical&hide_border=true" alt="Ziad's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=ziadhany7&theme=radical&hide_border=true" alt="Ziad's GitHub Streak" width="48%" />
+</p>
 
 ---
 
