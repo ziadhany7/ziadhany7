@@ -88,7 +88,7 @@ Engineered high-performance APIs for reliable data flow and built an end-to-end 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,js,react,tailwind,mysql,sqlite,docker,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js,html,css,bootstrap,react,tailwind,mysql,sqlite,docker,git,linux&theme=dark" />
 
 </div>
 
