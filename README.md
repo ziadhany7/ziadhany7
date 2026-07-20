@@ -136,7 +136,7 @@ Engineered high-performance APIs for reliable data flow and built an end-to-end 
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ziadhany7&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=ziadhany7&theme=radical&no-frame=true&row=1&column=7" width="90%"/> -->
 
 </div>
 
