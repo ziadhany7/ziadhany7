@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ziad%20Hany&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20PHP%20%26%20Laravel%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Ziad Hany
 
-<a href="https://www.linkedin.com/in/ziadhany7/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+RESTful+APIs+with+Laravel;Clean+Architecture+%26+SOLID+Principles+advocate;Optimizing+databases+for+high-concurrency+traffic;Currently+exploring+DevOps+%26+Cloud+Technologies" alt="Typing SVG" />
-</a>
+### Senior Backend PHP & Laravel Developer 🚀
+
+*Building scalable RESTful APIs with Laravel · Clean Architecture & SOLID Principles advocate*
+*Optimizing databases for high-concurrency traffic · Currently exploring DevOps & Cloud Technologies*
 
 <br/>
 
@@ -153,6 +154,6 @@ Engineered high-performance APIs for reliable data flow and built an end-to-end 
 
 *Open to backend architecture consulting, freelance Laravel projects, and interesting engineering problems.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+---
 
 </div>
