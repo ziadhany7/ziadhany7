@@ -3,9 +3,6 @@
 # Ziad Hany
 
 ### Senior Backend PHP & Laravel Developer 🚀
-<a href="https://www.linkedin.com/in/ziadhany7/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+RESTful+APIs+with+Laravel;Clean+Architecture+%26+SOLID+Principles+advocate;Optimizing+databases+for+high-concurrency+traffic;Currently+exploring+DevOps+%26+Cloud+Technologies" alt="Typing SVG" />
-</a>
 
 *Building scalable RESTful APIs with Laravel · Clean Architecture & SOLID Principles advocate*
 *Optimizing databases for high-concurrency traffic · Currently exploring DevOps & Cloud Technologies*
@@ -91,43 +88,7 @@ Engineered high-performance APIs for reliable data flow and built an end-to-end 
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" />
-
-<br/><br/>
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
-<img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Real--Time%20Sockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
-
-<br/><br/>
-
-**Architecture & Engineering**
-<br/>
-<img src="https://img.shields.io/badge/SOLID%20Principles-4B32C3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OOP-E34F26?style=for-the-badge" />
-
-<br/><br/>
-
-**DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,js,react,tailwind,mysql,sqlite,docker,git,linux&theme=dark" />
 
 </div>
 
