@@ -4,6 +4,10 @@
 
 ### Senior Backend PHP & Laravel Developer 🚀
 
+<a href="https://www.linkedin.com/in/ziadhany7/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+scalable+RESTful+APIs+with+Laravel;Clean+Architecture+%26+SOLID+Principles+advocate;Optimizing+databases+for+high-concurrency+traffic;Currently+exploring+DevOps+%26+Cloud+Technologies" alt="Typing SVG" />
+</a>
+
 *Building scalable RESTful APIs with Laravel · Clean Architecture & SOLID Principles advocate*
 *Optimizing databases for high-concurrency traffic · Currently exploring DevOps & Cloud Technologies*
 
