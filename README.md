@@ -1,64 +1,158 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLzz8CXT357obE/giphy.gif" width="30"> Hi there, I'm Ziad Hany
-</h1>
-<h3 align="center">Senior Backend PHP & Laravel Developer 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <em>Specializing in scalable enterprise architectures, high-performance RESTful APIs, and clean code.</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ziad%20Hany&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Backend%20PHP%20%26%20Laravel%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
----
+<a href="https://www.linkedin.com/in/ziadhany7/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+scalable+RESTful+APIs+with+Laravel;Clean+Architecture+%26+SOLID+Principles+advocate;Optimizing+databases+for+high-concurrency+traffic;Currently+exploring+DevOps+%26+Cloud+Technologies" alt="Typing SVG" />
+</a>
 
-### 👨‍💻 About Me
+<br/>
 
-- 💼 **Current Role:** Senior Backend Developer at [Creative Minds](https://cems-it.com/) & Freelance Engineer.
-- 🎓 **Education:** BSc in Computer Science and Artificial Intelligence, Helwan University.
-- 🏗️ **Core Focus:** Building scalable backend systems, handling high-concurrency traffic, and optimizing databases.
-- 🧩 **Engineering Philosophy:** Passionate about **Clean Architecture**, **SOLID Principles**, and **Design Patterns**.
-- 🚀 **Learning Path:** Currently diving deep into DevOps, Cloud Technologies, and Real-Time Systems.
-- 🌍 Based in Egypt 🇪🇬
+<a href="mailto:ziadhanyimportant1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ziadhany7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/ziad.hany.wadee"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=ziadhany7&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 
----
+</div>
 
-### 🏆 Featured Experience & Projects
+<br/>
 
-- 🎟️ **[Tik Event (Saudi Arabia)](https://tikevent.com/):** Engineered scalable RESTful APIs (Laravel) and React.js dashboards for an event ticketing platform. Optimized database queries to handle high-concurrency traffic during major ticket releases.
-- 📢 **[Adari (Campaign Management)](https://adari.me/ar):** Developed main backend modules utilizing **Laravel 12**, **JWT Auth**, and **Clean Architecture**, significantly reducing system bugs and improving performance.
-- 🏛️ **[BUC University System](https://frg.goldencodee.com/):** Built a fully automated, bilingual (AR/EN) food-safety inspection platform utilizing **Laravel 11**, digitizing workflows and deploying a complete real-time notification system.
-- 🏨 **[Golden Host](https://goldenhost.co/):** Developed core backend features, mobile APIs for seamless app-backend integration, and an intuitive Admin Dashboard to streamline operations.
-- 🎫 **[Golden4Tic](https://golden4tic.com/):** Engineered high-performance APIs for reliable data flow and built an end-to-end Business Dashboard to enhance analytics and decision-making.
+## 👨‍💻 About Me
 
----
+```yaml
+role: Senior Backend Developer @ Creative Minds (cems-it.com) + Freelance Engineer
+education: BSc Computer Science & Artificial Intelligence, Helwan University
+focus: Scalable backend systems, high-concurrency traffic, database optimization
+philosophy: Clean Architecture · SOLID Principles · Design Patterns
+currently_learning: DevOps · Cloud Technologies · Real-Time Systems
+location: Egypt 🇪🇬
+```
 
-### 🛠️ Tech Stack & Skills
+<br/>
 
-| Category | Technologies / Skills |
-| :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Backend & APIs** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![REST API](https://img.shields.io/badge/RESTful%20APIs-%23005571.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Sockets](https://img.shields.io/badge/Sockets/Real--Time-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Architecture & SE** | ![SOLID](https://img.shields.io/badge/SOLID%20Principles-4B32C3?style=for-the-badge) ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-%23E34F26?style=for-the-badge) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+## 🏆 Featured Experience & Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+### 🎟️ [Tik Event](https://tikevent.com/)
+**Event ticketing platform · Saudi Arabia**
+Engineered scalable RESTful APIs (Laravel) and React.js dashboards. Optimized database queries to handle high-concurrency traffic during major ticket releases.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ziadhany7&theme=radical&hide_border=true" alt="Ziad's GitHub Streak" width="48%" />
-</p>
+</td>
+<td width="50%" valign="top">
 
----
+### 📢 [Adari](https://adari.me/ar)
+**Campaign management platform**
+Developed core backend modules using Laravel 12, JWT Auth, and Clean Architecture — significantly reducing bugs and improving performance.
 
-### 🤝 Let's Connect
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="mailto:ziadhanyimportant1@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/ziadhany7/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/ziad.hany.wadee" target="blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
+### 🏛️ [BUC University System](https://frg.goldencodee.com/)
+**Bilingual (AR/EN) food-safety platform**
+Built a fully automated inspection platform on Laravel 11, digitizing workflows with a real-time notification system.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ziadhany7&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+</td>
+<td width="50%" valign="top">
+
+### 🏨 [Golden Host](https://goldenhost.co/)
+**Hospitality management platform**
+Developed core backend features, mobile APIs for app-backend integration, and an intuitive Admin Dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 [Golden4Tic](https://golden4tic.com/)
+**Ticketing & analytics platform**
+Engineered high-performance APIs for reliable data flow and built an end-to-end Business Dashboard for decision-making.
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" />
+
+<br/><br/>
+
+**Backend & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" />
+<img src="https://img.shields.io/badge/RESTful%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time%20Sockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+
+<br/><br/>
+
+**Architecture & Engineering**
+<br/>
+<img src="https://img.shields.io/badge/SOLID%20Principles-4B32C3?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OOP-E34F26?style=for-the-badge" />
+
+<br/><br/>
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark" />
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziadhany7&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadhany7&layout=compact&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ziadhany7&theme=radical&hide_border=true" width="65%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ziadhany7&theme=radical&no-frame=true&row=1&column=7" width="90%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Build Something Great
+
+*Open to backend architecture consulting, freelance Laravel projects, and interesting engineering problems.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
