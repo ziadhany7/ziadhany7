@@ -132,7 +132,7 @@ Engineered high-performance APIs for reliable data flow and built an end-to-end 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ziadhany7&theme=radical&hide_border=true" width="65%" />
+<!-- <img src="https://streak-stats.demolab.com/?user=ziadhany7&theme=radical&hide_border=true" width="65%" /> -->
 
 <br/><br/>
 
